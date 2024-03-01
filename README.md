@@ -1,10 +1,10 @@
-# cppProgramming3-ColumbiaCollege
+# cppProgramming-ColumbiaCollege
 This repository is a reference for assignments completed for the class programming 3 with C++    (CISS 243)
-
+I have also compiled my other work from Programming I and II in C++. I believe looking at the work from I and II to III shows much progression in organization.
 This course is done remotely through Columbia College of Missouri
 
 ## Catalog Description: 
-A continuation of CISS 242 in program design and development
+Programming III is a continuation of CISS 242 in program design and development
 using C++. Topics include strings, stream I/O, file processing, classes, inheritance,
 polymorphism, templates, stacks, queues and lists. Prerequisite: Grade of C or higher in
 CISS 242.
