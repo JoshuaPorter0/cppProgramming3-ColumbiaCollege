@@ -1,0 +1,55 @@
+1
+Alice Johnson
+555-0101
+Technology Trends
+500
+1
+Bob Smith
+555-0202
+Health 
+450
+1
+Carol White
+555-0303
+Financial 
+600
+1
+David Green
+555-0404
+Sustainability Practices
+350
+1
+Emily Brown
+555-0505
+Mindfulness 
+400
+1
+Frank Wright
+555-0606
+Ethics
+750
+1
+Grace Hall
+555-0707
+Remote Work
+425
+1
+Henry Ford
+555-0808
+Automotive Innovations
+500
+1
+Irene Adler
+555-0909
+Cybersecurity Threats
+650
+1
+John Watson
+555-1010
+Healthcare Innovations
+475
+1
+Kathy Bates
+555-1111
+Leadership in Turbulent Times
+525

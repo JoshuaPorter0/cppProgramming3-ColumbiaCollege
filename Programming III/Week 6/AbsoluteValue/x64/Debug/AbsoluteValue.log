@@ -1,0 +1,3 @@
+﻿  AbsoluteValue.cpp
+D:\school\Columbia College\Programming 3 cpp\cppProgramming3-ColumbiaCollege\Week 6\AbsoluteValue\AbsoluteValue.cpp(26,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  AbsoluteValue.vcxproj -> D:\school\Columbia College\Programming 3 cpp\cppProgramming3-ColumbiaCollege\Week 6\AbsoluteValue\x64\Debug\AbsoluteValue.exe

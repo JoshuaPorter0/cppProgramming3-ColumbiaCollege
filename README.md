@@ -21,3 +21,7 @@ Authors: Malik
 Publisher: Cengage Learning US
 Format: e-Text no POD (VS)
 Edition: 8
+
+####
+In-Seat Mountain Time; Tuesday, Thursday 07:45PM - 09:45PM; 01-08-2024 to 03-02-2024
+PST 06:45PM - 08:45PM

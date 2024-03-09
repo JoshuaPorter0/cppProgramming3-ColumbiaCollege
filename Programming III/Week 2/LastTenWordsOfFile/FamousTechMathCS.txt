@@ -1,0 +1,30 @@
+1: Isaac Newton - 1687 Gravity Lane
+2: Ada Lovelace - 1843 Analytical Engine Road
+3: Alan Turing - 1950 Enigma Street
+4: Tim Berners-Lee - 1989 WWW Avenue
+5: Grace Hopper - 1952 COBOL Court
+6: Steve Jobs - 1 Infinite Loop
+7: Bill Gates - 640K Memory Lane
+8: Elon Musk - 1 Mars Colony
+9: Jeff Bezos - 1 Cloud Space
+10: Mark Zuckerberg - 4 Social Network Blvd
+11: Marie Curie - 1898 Radium Street
+12: Nikola Tesla - 369 Electric Ave
+13: Larry Page - 1 Alphabet Drive
+14: Sergey Brin - 1 Googleplex Plaza
+15: Stephen Hawking - 42 Universe Way
+16: Katherine Johnson - 1962 Apollo Lane
+17: Guido van Rossum - 1991 Python Path
+18: Linus Torvalds - 1991 Linux Lane
+19: Richard Stallman - Free Software St
+20: Andrew Ng - 1 AI Avenue
+21: Satya Nadella - 1 Windows Way
+22: Sundar Pichai - 1600 Amphitheatre Parkway
+23: Bjarne Stroustrup - 1983 C++ Lane
+24: Ken Thompson - 1969 Unix Road
+25: Dennis Ritchie - C Language Lane
+26: Brian Kernighan - K&R Street
+27: James Gosling - Java Island
+28: Rosalind Franklin - DNA Drive
+29: Barbara Liskov - Liskov Lane
+30: Donald Knuth - Algorithm Alley
